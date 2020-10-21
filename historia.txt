@@ -7,3 +7,4 @@ la relacion conocimiento tiempo debe balancearse
 reunion de ayer con compañeros para conocer percepcion 
 se desarrollo  tranquilamente, el desenlace esta por observar 
 
+en el manejo del curso de git se debe probar su funcionamiento para interiorizar todos los procesos 
