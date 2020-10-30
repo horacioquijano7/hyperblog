@@ -1,13 +1,15 @@
 body
 {
-    color: aquamarine;
+    color: #333;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Courier";
+    margin: 0;
+    padding: 0;
 }
 #container
 {
-  width: 701;
-  padding: inherit;
+  width: 70%;
+  padding: 1em;
   text-align: left;
-
+  border: 1px solid #DDD;
 }
