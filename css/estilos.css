@@ -4,3 +4,10 @@ body
     text-align: center;
     font-family: "Arial";
 }
+#container
+{
+  width: 701;
+  padding: inherit;
+  text-align: left;
+
+}
